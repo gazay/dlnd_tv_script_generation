@@ -1,0 +1,9 @@
+.floydexpt
+.floydignore
+README.md
+checkpoint
+data/
+params.p
+preprocess.p
+save.index
+save.meta
